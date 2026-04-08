@@ -1,1 +1,2 @@
 
+edited to have commit 2 so that remote moves from a->b(commit 1 having new file)->c(this uodate in file) whereas local will be at a
